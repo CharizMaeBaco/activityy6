@@ -1,0 +1,123 @@
+export const User = [
+    {
+      id: 1,
+      name: {
+        firstname: "MAE FLOR",
+        lastname: "BUTAWAN",
+      },
+      course: "BSIT",
+      yearsection: "3B",
+      username: "MIMI",
+      password: "4777",
+      usertype: "STUDENT",
+    },
+    {
+      id: 2,
+      name: {
+        firstname: "LORRAINE",
+        lastname: "TAMAYO",
+      },
+      course: "BSIT",
+      yearsection: "3B",
+      username: "LORIEE",
+      password: "3000",
+      usertype: "STUDENT",
+    },
+    {
+      id: 3,
+      name: {
+        firstname: "KARL",
+        lastname: "LOQUIAS",
+      },
+      course: "BSIT",
+      yearsection: "3B",
+      username: "GIRLL",
+      password: "7878",
+      usertype: "STUDENT",
+    },
+    {
+      id: 4,
+      name: {
+        firstname: "NIKKA",
+        lastname: "TRIBUNALO",
+      },
+      course: "BSIT",
+      yearsection: "3B",
+      username: "NIKKY",
+      password: "1432",
+      usertype: "STUDENT",
+    },
+    {
+      id: 5,
+      name: {
+        firstname: "MARY",
+        lastname: "SANCHEZ",
+      },
+      course: "BSIT",
+      yearsection: "3B",
+      username: "BABY",
+      password: "5555",
+      usertype: "STUDENT",
+    },
+    {
+      id: 6,
+      name: {
+        firstname: "ROWENA",
+        lastname: "SUICO",
+      },
+      course: "BSIT",
+      yearsection: "3B",
+      username: "MABAIT",
+      password: "2023",
+      usertype: "STUDENT",
+    },
+    {
+      id: 7,
+      name: {
+        firstname: "GABRENE",
+        lastname: "DIAZ",
+      },
+      course: "",
+      yearsection: "",
+      username: "SIRD",
+      password: "8999",
+      usertype: "TEACHER",
+    },
+    {
+      id: 8,
+      name: {
+        firstname: "APOLINARIO",
+        lastname: "PADRE",
+      },
+      course: "",
+      yearsection: "",
+      username: "PADRE",
+      password: "7888",
+      usertype: "TEACHER",
+    },
+    {
+      id: 9,
+      name: {
+        firstname: "FERMO",
+        lastname: "ASUFRA",
+      },
+      course: "",
+      yearsection: "",
+      username: "FERMO",
+      password: "1213",
+      usertype: "TEACHER",
+    },
+    {
+      id: 10,
+      name: {
+        firstname: "CATHERINE",
+        lastname: "GABO",
+      },
+      course: "",
+      yearsection: "",
+      username: "CAT",
+      password: "1344",
+      usertype: "TEACHER",
+    },
+    
+  ];
